@@ -13,4 +13,4 @@ No, RAMIX built from scratch, It allows get full control on development!
 
 ### Support or Contact
 
-Have problems with configuration? Visit our [wiki](https://github.com/ramixlinux/ramix/wiki) or [contact with us via e-mail](ramixlinux@mail.ru).
+Have problems with configuration? Visit our [wiki](https://github.com/ramixlinux/ramix/wiki)!
